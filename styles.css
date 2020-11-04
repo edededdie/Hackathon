@@ -1,0 +1,88 @@
+body {
+background-image: url(https://climate.nasa.gov/assets/intro_image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-color:cyan;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    background-image: linear-gradient(to bottom, #0000ff 0%, #009900 100%);
+    font-family: 'Coda Caption', sans-serif;
+}
+h2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+}
+.image1 {
+    height: 140px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: right;
+}
+h3 {
+     display: flex;
+     flex-direction: column;
+     width: 200px;
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 35px;
+}
+    
+p {
+ color:red;   
+font-family: 'Monda', sans-serif;
+font-size: 30px;
+text-align:center;
+}
+
+
+.insta {
+    width:50px;
+    display:flex;
+    margin-top:350px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;    
+}
+    
+.tweet {
+    width:50px;
+    display:flex;
+    margin-top:350px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+h4 {
+    justify-content:center;
+     display: flex;
+     flex-direction: column;
+     font-size: 40px;
+     color:orange;
+     
+}
+    
+.d {
+    color:red;
+    background-color:yellow;
+    width:70px;
+    height:50px;
+    float: right;
+}
+
+.learn {
+    float: right;
+    font-size:25px;
+}
+    
+    
+    
